@@ -1,0 +1,38 @@
+/**
+ * Design: Surrealismo Onírico Académico
+ * Footer com formas orgânicas e gradientes
+ */
+
+import { useLanguage } from "@/contexts/LanguageContext";
+
+export default function Footer() {
+  const { t, language } = useLanguage();
+
+  return (
+    <footer className="relative mt-24 border-t border-border/30 overflow-hidden">
+      {/* Background Gradient */}
+      <div className="absolute inset-0 bg-gradient-to-t from-secondary/20 to-transparent"></div>
+      
+      {/* Floating Shapes */}
+      <div className="absolute top-0 left-1/4 w-64 h-64 bg-primary/5 rounded-full blur-3xl"></div>
+      <div className="absolute bottom-0 right-1/4 w-48 h-48 bg-accent/5 rounded-full blur-3xl"></div>
+
+      <div className="relative z-10 container mx-auto px-4 py-12">
+        <div className="text-center space-y-4">
+          <h3 className="text-2xl font-display font-bold text-foreground">
+            Speculative Narratives Beyond Consensus Reality
+          </h3>
+          <p className="text-sm text-muted-foreground">
+            29–30 {language === "pt" ? "Junho" : "June"} & 1 {language === "pt" ? "Julho" : "July"} 2026
+          </p>
+          <p className="text-sm text-muted-foreground">
+            Department of Languages and Cultures — University of Aveiro, Portugal
+          </p>
+          <div className="pt-6 text-xs text-muted-foreground/60">
+            © 2026 University of Aveiro
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+}
