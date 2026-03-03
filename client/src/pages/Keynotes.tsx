@@ -13,25 +13,25 @@ export default function Keynotes() {
       name: "Ana da Silveira Moura",
       affiliation: "University of Vigo",
       bioKey: "keynotes.bio1",
-      photo: "",
+      photo: "/keynotes/Ana-Moura.jpg",
     },
     {
       name: "Camilla Grudova",
       affiliation: "Author",
       bioKey: "keynotes.bio3",
-      photo: "",
+      photo: "/keynotes/Camilla_Grudova.jpg",
     },
     {
       name: "Michael Lundblad",
       affiliation: "University of Oslo",
       bioKey: "keynotes.bio4",
-      photo: "",
+      photo: "/keynotes/Michael-Lundblad.jpg",
     },
     {
       name: "Nelson Zagalo",
       affiliation: "University of Aveiro",
       bioKey: "keynotes.bio5",
-      photo: "",
+      photo: "/keynotes/Nelson-Zagalo.jpg",
     },
   ];
 
