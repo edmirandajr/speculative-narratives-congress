@@ -21,7 +21,7 @@ export default function Home() {
         {/* Background Image com Overlay Gradient */}
         <div className="absolute inset-0 z-0">
           <img
-            src="https://private-us-east-1.manuscdn.com/sessionFile/PWm3SGJOx6aChsaibUGCEg/sandbox/XlvANvXfkweAEPdrlY3l29-img-1_1770408933000_na1fn_aGVyby1zcGVjdWxhdGl2ZS1wb3J0YWw.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFdtM1NHSk94NmFDaHNhaWJVR0NFZy9zYW5kYm94L1hsdkFOdlhma3dlQUVQZHJsWTNsMjktaW1nLTFfMTc3MDQwODkzMzAwMF9uYTFmbl9hR1Z5YnkxemNHVmpkV3hoZEdsMlpTMXdiM0owWVd3LnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=Hbl04WCd9G5YcEJVpMrmRkv9-tUAScMr9-FjBqO2wmrRyotLlukygL2FDNvL2Cjc8jeu9ZcQGNc6TaflXR4t3V~6nUthdYPllyZLHr94Coq3BUK0NCQDqmAgCjO74c35Lkn0LdSzSsuT5SKlIj~ByMo0J517eiagjS1r~b0zJ3nzmkY-UhrtEEDi0Qqz-x31ppI2eb2pas2TWdiwR~6dITyFpaEvek21eHqf9xaGCDsRWMCPBG9AJP8d~0ujyoj8G9FV9HhDizCX0qFna-Aaamr2FuLWua840pOyDEs1Ro07dqAR3L5QLGipvlvEzzKLQYi44pLx3mDkvLm-HVAPJw__"
+            src="/images/image-home.webp"
             alt="Speculative Portal"
             className="w-full h-full object-cover"
           />
@@ -52,7 +52,7 @@ export default function Home() {
         {/* Background Pattern */}
         <div className="absolute inset-0 opacity-30">
           <img
-            src="https://private-us-east-1.manuscdn.com/sessionFile/PWm3SGJOx6aChsaibUGCEg/sandbox/XlvANvXfkweAEPdrlY3l29-img-5_1770408934000_na1fn_Y29uZ3Jlc3MtYWJzdHJhY3QtcGF0dGVybg.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFdtM1NHSk94NmFDaHNhaWJVR0NFZy9zYW5kYm94L1hsdkFOdlhma3dlQUVQZHJsWTNsMjktaW1nLTVfMTc3MDQwODkzNDAwMF9uYTFmbl9ZMjl1WjNKbGMzTXRZV0p6ZEhKaFkzUXRjR0YwZEdWeWJnLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=NKUnRoTr35ch3tKcXk5l5ljSkoJ94nqm-6LNEjqKeMTqWHHsbZV00NzDrY6K3LWDoEyCzvP6G-t0Nf2j6Iep-AKo63T68hBhdpkK3j9~6m27ieQRpGKqdHK-8GS6hqKfBHgziT~9CXdPAnMeVnube2HjOhXWb41kxLl3p~uCDLECQzjiQqChG~2cCM9Q~1sXkY3ED8Ms8nnRrgeJRfd1JuLZK5WjWvCcpW9rHmSaMTqbyRSSC0FYo88PfCqRf1v0KCr1EiFA6QTYuEphcWDcqLv4HoZVLGjbOBF8bXzeh1hHNrhBFJWzmOidyi0Qo2985wGC961JJwClKHJ1WA34LQ__"
+            src="/images/image-home.webp"
             alt=""
             className="w-full h-full object-cover"
           />

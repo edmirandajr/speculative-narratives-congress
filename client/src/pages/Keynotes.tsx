@@ -41,7 +41,7 @@ export default function Keynotes() {
       <section className="relative mb-24 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://private-us-east-1.manuscdn.com/sessionFile/PWm3SGJOx6aChsaibUGCEg/sandbox/XlvANvXfkweAEPdrlY3l29-img-3_1770408928000_na1fn_ZmVtaW5pc3QtZnV0dXJlcy1hYnN0cmFjdA.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFdtM1NHSk94NmFDaHNhaWJVR0NFZy9zYW5kYm94L1hsdkFOdlhma3dlQUVQZHJsWTNsMjktaW1nLTNfMTc3MDQwODkyODAwMF9uYTFmbl9abVZ0YVc1cGMzUXRablYwZFhKbGN5MWhZbk4wY21GamRBLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSx3XzE5MjAsaF8xOTIwL2Zvcm1hdCx3ZWJwL3F1YWxpdHkscV84MCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=d~JT-JnK3QuSTwlzBFupUWBjKd9vFUDjSyU7Kx1sKl9fNioQHgJQGF0aYjCPGi0cThHAWtwTrQ2XCJbj70oY4CNpJxsPX~M~~BKjQezDqz5HPM0jJZ6N2WXlGTQ9le3YVn3113oUKXCGRaakfpL7oVjRCvgQ6UjR6QocqUFWjATWQq6cUP-gCTeqrO8o2gWGYso6AEdzIc1Fz9HKr6apB2x4DE4xY5-B7QrtpGzGF--~9uOJtWj5KFtxj0g7zVHt9hbZxYtBYP7MM6iT6rtdx9v4pQqaujfBt5rGsEUvXBzpAbxB-~mue--iFIxRzdhrHzc8dKlMlWnVCA3TE4Tftg__"
+            src="/images/image-keynotes.webp"
             alt="Feminist Futures"
             className="w-full h-96 object-cover opacity-40"
           />

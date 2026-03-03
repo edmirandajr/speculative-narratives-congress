@@ -31,7 +31,7 @@ export default function Themes() {
       <section className="relative mb-24 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://private-us-east-1.manuscdn.com/sessionFile/PWm3SGJOx6aChsaibUGCEg/sandbox/XlvANvXfkweAEPdrlY3l29-img-2_1770408933000_na1fn_dGhlbWVzLXdlaXJkLWhvcnJvcg.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvUFdtM1NHSk94NmFDaHNhaWJVR0NFZy9zYW5kYm94L1hsdkFOdlhma3dlQUVQZHJsWTNsMjktaW1nLTJfMTc3MDQwODkzMzAwMF9uYTFmbl9kR2hsYldWekxYZGxhWEprTFdodmNuSnZjZy5wbmc~eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsd18xOTIwLGhfMTkyMC9mb3JtYXQsd2VicC9xdWFsaXR5LHFfODAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=MFU~Va5g9IQr26cQy1Bp4RNBbXwQuP9OhTuaN6ekHNfftGpjhUePH-Wnpe9G4nCl5E1IiETJLLl8HNy4mrXIwt-dq8p4N1c3um-~lwotRPpoiXxez7SMlIS1grei-NoxS7BZpYNybdzeDOYJT5vQPuUhxdYafWlvVBRKYBfZbfX~yrwEHimxd76HC92JDIXS4A9xI0wM1VjQMRlzo2aBhB5kUX7Cc3tHy6NG0xptjoMWQPWxZcpXPWDVOd1vGx3c7dK0HPwGeIuESfTjaNE1sUEZtlAveCAWig-PJVU2gu3OoPHfLOxTpBGJEEmeaB7xnjyIyDia~fj1JUquwZ9D5w__"
+            src="/images/image-themes.webp"
             alt="Weird Horror"
             className="w-full h-96 object-cover opacity-40"
           />
