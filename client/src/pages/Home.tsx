@@ -15,9 +15,10 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-[100svh]">
       {/* Hero Section com Portal Especulativo */}
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-[100svh] flex items-center 
+justify-center overflow-hidden">
         {/* Background Image com Overlay Gradient */}
         <div className="absolute inset-0 z-0">
           <img
