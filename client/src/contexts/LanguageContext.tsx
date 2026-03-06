@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, ReactNode } from "react";
+	import { createContext, useContext, useState, ReactNode } from "react";
 
 type Language = "pt" | "en";
 
@@ -159,7 +159,7 @@ const translations: Record<Language, Record<string, string>> = {
     
     // Registration
     "registration.title": "Registration",
-    "registration.info": "Information about registration and in-person participation will be published soon.",
+    "registration.info": " ",
     
     // Venue
     "venue.title": "Venue",
