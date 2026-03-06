@@ -80,7 +80,7 @@ const translations: Record<Language, Record<string, string>> = {
     
     // Registration
     "registration.title": "Inscrição",
-    "registration.info": "Informações sobre inscrição e participação presencial serão publicadas em breve.",
+    "registration.info": " ",
     
     // Venue
     "venue.title": "Local",
