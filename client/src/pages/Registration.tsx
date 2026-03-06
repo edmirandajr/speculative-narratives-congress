@@ -64,18 +64,18 @@ Nome completo do participante na Conferência
 <p><strong>Preencha o formulário abaixo para a criação do certificado.</strong></p>
 </div>
 
-          <div style={{ display: "flex", justifyContent: "center", marginTop: "40px" }}>
-            <iframe
-              
-src="https://docs.google.com/forms/d/e/1FAIpQLSfiCagJ6ERzeAlhBaTNbh_zf8NfL4uYwM9fwujLMtNvaO2aEw/viewform?embedded=true"
-              width="100%"
-              height="1200"
-              style={{ border: "none", maxWidth: "800px" }}
-            ></iframe>
-          </div>
+<div className="w-full flex justify-center mt-12">
+  <div className="w-full max-w-3xl">
+    <iframe
+      src="https://docs.google.com/forms/d/e/1FAIpQLSfiCagJ6ERzeAlhBaTNbh_zf8NfL4uYwM9fwujLMtNvaO2aEw/viewform?embedded=true"
+      className="w-full rounded-xl"
+      height="1400"
+      style={{ border: "none" }}
+      loading="lazy"
+    ></iframe>
+   </div>
 
-        </div>
-      </div>
-    </div>
-  );
-}
+         </div>
+       </div>
+     );
+   }
