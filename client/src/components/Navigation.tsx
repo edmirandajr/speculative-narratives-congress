@@ -5,12 +5,10 @@
 
 import { Link, useLocation } from "wouter";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { Button } from "@/components/ui/button";
-import { Globe } from "lucide-react";
 
 export default function Navigation() {
   const [location] = useLocation();
-  const { language, setLanguage, t } = useLanguage();
+  const { t } = useLanguage();
 
   const navItems = [
     { key: "nav.home", path: "/" },
@@ -22,10 +20,6 @@ export default function Navigation() {
     { key: "nav.venue", path: "/venue" },
     { key: "nav.contact", path: "/contact" },
   ];
-
-  const toggleLanguage = () => {
-    setLanguage(language === "pt" ? "en" : "pt");
-  };
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 backdrop-blur-xl bg-background/70 border-b border-border/50">
@@ -55,17 +49,6 @@ export default function Navigation() {
               );
             })}
           </div>
-
-          {/* Language Toggle */}
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={toggleLanguage}
-            className="gap-2 rounded-full"
-          >
-            <Globe className="w-4 h-4" />
-            <span className="text-sm font-medium uppercase">{language}</span>
-          </Button>
         </div>
 
         {/* Mobile Navigation */}
