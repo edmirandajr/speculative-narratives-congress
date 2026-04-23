@@ -163,7 +163,27 @@ const translations: Record<Language, Record<string, string>> = {
     
     // Venue
     "venue.title": "Venue",
-    "venue.text": "The conference takes place at the Department of Languages and Cultures of the University of Aveiro, Portugal. Aveiro is a university city located in the central region of Portugal, known for its canals, Art Nouveau architecture, and proximity to the Atlantic coast.",
+    "venue.text": `The venue is the University of Aveiro campus. All sessions will take place in Building 2 of the Department of Languages and Cultures.
+
+Registration will take place on the ground floor, with signage to guide participants.
+
+Department of Languages and Cultures, 3810-164 Aveiro
+
+Travelling to Aveiro
+
+Aveiro does not have an airport. The nearest airport is Porto (OPO). Lisbon (LIS) is also a viable option.
+
+From Porto:
+From the airport, take a train to Campanhã Station and then to Aveiro. Local trains take about 1 hour; faster options (Alfa or Intercidades) take 30–40 minutes.
+
+From Lisbon:
+Take the metro to Oriente Station and then a train to Aveiro. The journey takes approximately 2h20–2h40.
+
+Accommodation:
+Hotels and guesthouses are located about 1 km from the station. Meliá, Moliceiro and Salinas are recommended options.
+
+Getting around:
+Walking is convenient, and free bicycles are available. Aveiro is generally safe, even at night.`,
     
     // Contact
     "contact.title": "Contact",

@@ -26,8 +26,8 @@ export default function Footer() {
           </p>
 
           {/* Institutional Funding Message */}
-          <div className="mt-8 pt-8 border-t border-border/20 max-w-2xl mx-auto">
-            <p className="text-xs text-muted-foreground/80 leading-relaxed">
+          <div className="mt-8 pt-8 border-t border-border/20 max-w-4xl mx-auto">
+            <p className="text-base md:text-lg text-muted-foreground/90 leading-relaxed text-center">
               This conference is funded by national funds through the Foundation for Science and
               Technology (FCT), I.P., under the project UID/04188/2025, with the DOI identifier:{" "}
               <a
