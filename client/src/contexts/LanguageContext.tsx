@@ -1,4 +1,4 @@
-	import { createContext, useContext, useState, ReactNode } from "react";
+import { createContext, useContext, useState, ReactNode } from "react";
 
 type Language = "pt" | "en";
 
@@ -71,8 +71,8 @@ const translations: Record<Language, Record<string, string>> = {
     "call.format4": "Apresentação criativa (performance, instalação, screening)",
     "call.submission": "Submissão",
     "call.submission.text": "As propostas devem incluir um resumo de aproximadamente 300 palavras em inglês e uma bionota de 150 palavras. Enviar para:",
-    "call.deadline": "Prazo de submissão: 15 Abril 2026",
-    "call.notification": "Notificação de aceitação: 30 Abril 2026",
+    "call.deadline": "Prazo de submissão: 10th May 2026",
+    "call.notification": "Notificação de aceitação: 23rd May 2026",
     
     // Program
     "program.title": "Programa",
@@ -150,8 +150,8 @@ const translations: Record<Language, Record<string, string>> = {
     "call.format4": "Creative presentation (performance, installation, screening)",
     "call.submission": "Submission",
     "call.submission.text": "Proposals should include an abstract of approximately 300 words in English and a bio-note of 150 words. Submit to:",
-    "call.deadline": "Submission deadline: 15 April 2026",
-    "call.notification": "Notification of acceptance: 30 April 2026",
+    "call.deadline": "Submission deadline: 10th May 2026",
+    "call.notification": "Notification of acceptance: 23rd May 2026",
     
     // Program
     "program.title": "Program",
