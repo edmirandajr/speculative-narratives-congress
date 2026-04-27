@@ -11,7 +11,7 @@ export default function Keynotes() {
   const speakers = [
     {
       name: "Ana da Silveira Moura",
-      affiliation: "University of Vigo",
+      affiliation: "University of Porto",
       bioKey: "keynotes.bio1",
       photo: "/keynotes/Ana-Moura.jpg",
     },

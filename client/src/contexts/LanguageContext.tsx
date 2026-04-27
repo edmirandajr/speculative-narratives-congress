@@ -134,7 +134,7 @@ const translations: Record<Language, Record<string, string>> = {
     
     // Keynotes
     "keynotes.title": "Keynote Speakers",
-    "keynotes.bio1": "Ana da Silveira Moura is a professor at the University of Vigo, where she researches speculative fiction, gender studies, and contemporary narratives. Her research explores the intersections between feminism, futurism, and science fiction.",
+    "keynotes.bio1": "Ana da Silveira Moura is an external collaborator at the University of Porto's Natural History and Science Museum. Her research focuses on speculative fiction, gender studies and contemporary narratives. She explores the intersection between feminism, futurism and science fiction in her research.",
     "keynotes.bio2": "AMP Rodriguez is a researcher at the University of Vigo, specialized in comparative literature and cultural studies. His work focuses on representations of horror and the weird in contemporary culture.",
     "keynotes.bio3": "Camilla Grudova is an author of speculative and weird fiction. Her short stories explore strange and unsettling universes, combining Gothic elements with contemporary sensibilities. She is the author of 'The Doll's Alphabet' and 'Children of Paradise'.",
     "keynotes.bio4": "Michael Lundblad is a professor at the University of Oslo, where he researches animal studies, ecocriticism, and speculative fiction. His research examines representations of non-humans in literature and cinema.",
