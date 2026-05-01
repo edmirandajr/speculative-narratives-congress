@@ -80,26 +80,12 @@ export default function Registration() {
                   </ul>
                 </div>
               </div>
-            </div>
 
-            <div>
-              <h2 className="text-xl font-bold text-foreground mb-4 pb-2 border-b border-border/30">Certificate</h2>
-              <p>Participants must fill out the form below for certificate issuance.</p>
+              <p className="mt-6 text-sm text-muted-foreground text-center">
+                Certificates will be issued after the conference.
+              </p>
             </div>
-
-          </div>
-
-          <div className="w-full flex justify-center mt-12">
-            <div className="w-full max-w-3xl">
-              <iframe
-                src="https://docs.google.com/forms/d/e/1FAIpQLSfiCagJ6ERzeAlhBaTNbh_zf8NfL4uYwM9fwujLMtNvaO2aEw/viewform?embedded=true"
-                className="w-full rounded-xl"
-                height="1400"
-                style={{ border: "none" }}
-                loading="lazy"
-              ></iframe>
             </div>
-          </div>
 
         </div>
       </div>
