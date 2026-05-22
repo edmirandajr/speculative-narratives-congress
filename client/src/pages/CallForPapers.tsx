@@ -89,6 +89,8 @@ export default function CallForPapers() {
       <li>Carolina Nuñez Sanchez (University of A Coruña, Spain)</li>
       <li>Lars Jensen (University of Roskilde, Denmark)</li>
       <li>Marie-Manuelle da Silva (Open University, Portugal)</li>
+      <li>Maria Biscaia (University of Aveiro, Portugal)</li>
+      <li>Antonio José Monteiro de Oliveira (Polytechnic of Porto)</li>
     </ul>
   </div>
 
