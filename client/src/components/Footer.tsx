@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
 
           {/* Institutional Logos */}
-          <div className="mt-8 flex flex-wrap items-center justify-center gap8">
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-8">
             <img
               src="/logos/logo-cllc.png"
               alt="CLLC – Centro de Línguas, Literaturas e Culturas"
@@ -60,8 +60,19 @@ export default function Footer() {
             />
           </div>
 
-          <div className="pt-6 text-xs text-muted-foreground/60">
-            © 2026 University of Aveiro
+          <div className="pt-6 space-y-1 text-xs text-muted-foreground/60">
+            <p>
+              Website designed &amp; developed by{" "}
+              <a
+                href="https://www.behance.net/edmilsonmiranda"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-muted-foreground transition-colors underline underline-offset-2"
+              >
+                Edmilson Miranda Jr
+              </a>
+            </p>
+            <p>© 2026 University of Aveiro</p>
           </div>
         </div>
       </div>
